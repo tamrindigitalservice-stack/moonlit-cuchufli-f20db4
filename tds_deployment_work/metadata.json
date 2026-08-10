@@ -1,0 +1,6 @@
+{
+  "name": "Tamrin Digital Service",
+  "description": "Tamrin Digital Service (TDS) - Digital & Government Online Service Center in Ramnagar, Paschim Medinipur. Easy Service, Better Life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
